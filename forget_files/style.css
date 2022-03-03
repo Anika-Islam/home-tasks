@@ -1,0 +1,14 @@
+/*universal selector */
+*{
+    text-align: center;
+    color: white;
+}
+/* Id selector */
+#admin-box{
+    background-color: tomato;
+    width: 500px;
+}
+/*Descendant selector */
+form Input{
+    width: 90%;
+}
